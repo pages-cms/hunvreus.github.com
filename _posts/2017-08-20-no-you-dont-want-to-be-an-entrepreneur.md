@@ -8,7 +8,7 @@ image: /files/entrepreneurship-no/2-topic.jpg
 
 A few months ago, I gave a very last minute talk at Barcamp Shanghai. I decided to try and walk people through what I think of entrepreneurship and why I recommend most people **not** to do it.
 
-I hadn't prepared anything prior to giving the talk and had no adapter for my laptop anyway, so you get awesome last minute shitty drawings in lieu of slides.
+I hadn't prepared anything and had no adapter for my laptop anyway, so you get awesome last minute shitty drawings in lieu of slides.
 
 ![Who am I?](/files/entrepreneurship-no/1-intro.jpg)
 
